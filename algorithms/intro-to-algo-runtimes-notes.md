@@ -1,4 +1,4 @@
-Algorithm Run times
+## Algorithm Run times
 
 
                          n=10        n=100       n=1000

@@ -1,4 +1,5 @@
-Sorting Algorithms
+## Sorting Algorithms
+
 Exhaustive Search = Bad/Slow
 O(n! * n) >= 2^n
 

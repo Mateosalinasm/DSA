@@ -1,5 +1,4 @@
-Merge Sort
-----------
+## Merge Sort
 
 Merge Sort(x1, x2, x3, ..., xn)
     if n = 1 
